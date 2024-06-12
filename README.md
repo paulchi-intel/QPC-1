@@ -59,7 +59,7 @@ If you have an executable version of the project, you can run it without needing
     ```bash
     QPC-1.exe
     ```
-You may refer to [Demo Video](QPC-1 Usage.mp4)**"QPC-1 Usage.mp4"** which demonstrate the usage.
+You may refer to **"QPC-1 Usage.mp4"** which demonstrate the usage.
 
 Image#1 Converged Q-table
 ![Converged Q-table](Images/img_converged_q_table.jpg)
