@@ -1,0 +1,73 @@
+State,Power Source,Remaining Power,Drain Rate,Application,A1 - low power saving,A2 - moderate power saving,A3 - high power saving,A4 - extreme power saving
+S1,AC,0-20%,quick,performance,5,3,1,-2
+S2,AC,0-20%,quick,average,4,2,0,-3
+S3,AC,0-20%,quick,light weight,3,1,-1,-4
+S4,AC,0-20%,medium,performance,5,3,1,-2
+S5,AC,0-20%,medium,average,4,2,0,-3
+S6,AC,0-20%,medium,light weight,3,1,-1,-4
+S7,AC,0-20%,slow,performance,5,3,1,-2
+S8,AC,0-20%,slow,average,4,2,0,-3
+S9,AC,0-20%,slow,light weight,3,1,-1,-4
+S10,AC,20-50%,quick,performance,5,3,1,-2
+S11,AC,20-50%,quick,average,4,2,0,-3
+S12,AC,20-50%,quick,light weight,3,1,-1,-4
+S13,AC,20-50%,medium,performance,5,3,1,-2
+S14,AC,20-50%,medium,average,4,2,0,-3
+S15,AC,20-50%,medium,light weight,3,1,-1,-4
+S16,AC,20-50%,slow,performance,5,3,1,-2
+S17,AC,20-50%,slow,average,4,2,0,-3
+S18,AC,20-50%,slow,light weight,3,1,-1,-4
+S19,AC,50-80%,quick,performance,5,3,1,-2
+S20,AC,50-80%,quick,average,4,2,0,-3
+S21,AC,50-80%,quick,light weight,3,1,-1,-4
+S22,AC,50-80%,medium,performance,5,3,1,-2
+S23,AC,50-80%,medium,average,4,2,0,-3
+S24,AC,50-80%,medium,light weight,3,1,-1,-4
+S25,AC,50-80%,slow,performance,5,3,1,-2
+S26,AC,50-80%,slow,average,4,2,0,-3
+S27,AC,50-80%,slow,light weight,3,1,-1,-4
+S28,AC,80-100%,quick,performance,5,3,1,-2
+S29,AC,80-100%,quick,average,4,2,0,-3
+S30,AC,80-100%,quick,light weight,3,1,-1,-4
+S31,AC,80-100%,medium,performance,5,3,1,-2
+S32,AC,80-100%,medium,average,4,2,0,-3
+S33,AC,80-100%,medium,light weight,3,1,-1,-4
+S34,AC,80-100%,slow,performance,5,3,1,-2
+S35,AC,80-100%,slow,average,4,2,0,-3
+S36,AC,80-100%,slow,light weight,3,1,-1,-4
+S37,Battery,0-20%,quick,performance,-5,-3,-1,2
+S38,Battery,0-20%,quick,average,-4,-2,0,3
+S39,Battery,0-20%,quick,light weight,-3,-1,1,4
+S40,Battery,0-20%,medium,performance,-5,-3,-1,2
+S41,Battery,0-20%,medium,average,-4,-2,0,3
+S42,Battery,0-20%,medium,light weight,-3,-1,1,4
+S43,Battery,0-20%,slow,performance,-5,-3,-1,2
+S44,Battery,0-20%,slow,average,-4,-2,0,3
+S45,Battery,0-20%,slow,light weight,-3,-1,1,4
+S46,Battery,20-50%,quick,performance,-5,-3,-1,2
+S47,Battery,20-50%,quick,average,-4,-2,0,3
+S48,Battery,20-50%,quick,light weight,-3,-1,1,4
+S49,Battery,20-50%,medium,performance,-5,-3,-1,2
+S50,Battery,20-50%,medium,average,-4,-2,0,3
+S51,Battery,20-50%,medium,light weight,-3,-1,1,4
+S52,Battery,20-50%,slow,performance,-5,-3,-1,2
+S53,Battery,20-50%,slow,average,-4,-2,0,3
+S54,Battery,20-50%,slow,light weight,-3,-1,1,4
+S55,Battery,50-80%,quick,performance,-5,-3,-1,2
+S56,Battery,50-80%,quick,average,-4,-2,0,3
+S57,Battery,50-80%,quick,light weight,-3,-1,1,4
+S58,Battery,50-80%,medium,performance,-5,-3,-1,2
+S59,Battery,50-80%,medium,average,-4,-2,0,3
+S60,Battery,50-80%,medium,light weight,-3,-1,1,4
+S61,Battery,50-80%,slow,performance,-5,-3,-1,2
+S62,Battery,50-80%,slow,average,-4,-2,0,3
+S63,Battery,50-80%,slow,light weight,-3,-1,1,4
+S64,Battery,80-100%,quick,performance,-5,-3,-1,2
+S65,Battery,80-100%,quick,average,-4,-2,0,3
+S66,Battery,80-100%,quick,light weight,-3,-1,1,4
+S67,Battery,80-100%,medium,performance,-5,-3,-1,2
+S68,Battery,80-100%,medium,average,-4,-2,0,3
+S69,Battery,80-100%,medium,light weight,-3,-1,1,4
+S70,Battery,80-100%,slow,performance,-5,-3,-1,2
+S71,Battery,80-100%,slow,average,-4,-2,0,3
+S72,Battery,80-100%,slow,light weight,-3,-1,1,4
