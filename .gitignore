@@ -1,0 +1,8 @@
+.git
+.idea
+.venv
+__pycache__
+.env
+working_log.txt
+Backup
+backup_src
